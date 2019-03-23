@@ -1,8 +1,16 @@
 #!/bin/bash
 # UsnekxPHC
 clear
+echo "                                                                 "
+echo "                                                                 "
+echo " _|    _|    _|_|_|  _|      _|  _|_|_|_|  _|    _|  _|      _|  "
+echo " _|    _|  _|        _|_|    _|  _|        _|  _|      _|  _|    "
+echo " _|    _|    _|_|    _|  _|  _|  _|_|_|    _|_|          _|      "
+echo " _|    _|        _|  _|    _|_|  _|        _|  _|      _|  _|    "
+echo "   _|_|    _|_|_|    _|      _|  _|_|_|_|  _|    _|  _|      _|  "
+echo "                                                                 "
 echo "                        AUTO SCRIPT                              "
-echo "                        by toybitz                               "
+echo "                                                                 "
 echo " "
 
 HOST=""
@@ -120,3 +128,5 @@ echo "Username: ${USER}"
 echo "Password: ${SERVER_PASSWORD}"
 echo "Server Password: ${SE_PASSWORD}"
 echo " "
+echo "Join us in TD's Discord Server"
+echo "Invitation link: https://discord.gg/2BCNNYg"
